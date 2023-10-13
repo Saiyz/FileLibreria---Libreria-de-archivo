@@ -26,7 +26,7 @@ FileLibreria.EscribirArchivo("miarchivo.txt", "Nuevos datos"); // Escribir en un
 
 FileLibreria.borrarArchivo("miarchivo.txt"); // // Borrar un archivo
 
-//Asegúrate de ajustar las rutas de archivo y nombres de archivo según tus necesidades en tu proyecto real.
+//Asegúrate de ajustar las rutas de archivo y nombres de archivo según las necesidades de tu proyecto.
 ```
 
 # Nota
