@@ -30,7 +30,7 @@ FileLibreria.borrarArchivo("miarchivo.txt"); // // Borrar un archivo
 ```
 
 # Nota
-Esta libreria está en su fase beta, por lo tanto, puede presentar algunos problemas, si te ocurre esto no dudes en contactarme para hacerle reparaciones
+Esta libreria está en su fase beta, por lo tanto, puede presentar algunos problemas, si te ocurre esto no dudes en contactarme para hacerle reparaciones.
 
 
 
