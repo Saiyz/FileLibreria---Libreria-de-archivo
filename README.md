@@ -1,4 +1,4 @@
-# FileLibreria---Libreria-de-archivo
+# FileLibreria---Libreria-de-archivo - Laboratorio
 FileLibreria es una sencilla librería en Java que te permite realizar operaciones comunes de manejo de archivos, como leer, escribir, copiar, mover y borrar archivos. Esta librería puede ser útil en tus proyectos de Java cuando necesites interactuar con archivos en el sistema de archivos local.
 
 
